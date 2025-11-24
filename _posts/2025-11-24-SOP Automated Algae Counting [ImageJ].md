@@ -86,9 +86,13 @@ The script will open images one by one and pause. For **EACH** image:
 
 ## 5. The Script Code
 
-Copy the code below and save it as **`AlgaeCounter.ijm`**. To install in ImageJ: `Plugins` > `New` > `Macro`, paste code, and `Save`.
+Download the code from this link and save it as **`AlgaeCounter.ijm`**. To install in ImageJ: `Plugins` > `New` > `Macro`, paste code, and `Save`.
+https://github.com/LielUziahu/L.Uziahu_Lab_Notebook-Mass_Lab/blob/master/_.ijm/AlgaeCounter.ijm
 
-AlgaeCounter.ijm
+
+
+
+
 
 /*
  * SOP SCRIPT: AUTOMATED ALGAE COUNTER (Variable Replicates)
