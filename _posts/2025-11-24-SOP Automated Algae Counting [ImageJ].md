@@ -90,7 +90,7 @@ Copy the code below and save it as **`AlgaeCounter.ijm`**. To install in ImageJ:
 
 AlgaeCounter.ijm
 
-```
+``` {
 ijm
 /*
 * SOP SCRIPT: AUTOMATED ALGAE COUNTER (Variable Replicates)
@@ -210,4 +210,5 @@ function printRow(sample, cArr) {
         line = line + "\t" + cArr[k];
     }
     print(line);
+}
 }
