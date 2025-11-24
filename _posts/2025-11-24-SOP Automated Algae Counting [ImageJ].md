@@ -90,7 +90,8 @@ Copy the code below and save it as **`AlgaeCounter.ijm`**. To install in ImageJ:
 
 AlgaeCounter.ijm
 
-```ijm
+```
+ijm
 /*
 * SOP SCRIPT: AUTOMATED ALGAE COUNTER (Variable Replicates)
 * Lab Protocol: 11/2025
